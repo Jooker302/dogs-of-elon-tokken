@@ -240,13 +240,13 @@ button {
 	font-weight: 600;
 }
 .main_bt {
-	background: #0F203C;
+	background: #FFFFFF;
 	color: #fff;
 	padding: 10px 60px 10px 60px;
 	float: left;
 	font-size: 15px;
 	font-weight: 400;
-	border: solid #0F203C 5px;
+	border: solid #FFFFFF 5px;
 	border-radius: 0;
 	margin-right: 30px;
 }
@@ -1555,7 +1555,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .service .world {
-	background-color: #E3384A;
+	background-color: #F1A212;
 	text-align: center;
 	padding: 40px 40px;
 	margin-top: 30px;
@@ -1612,7 +1612,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-bottom: 0px;
 }
 .experts .experts-box {
-	background-color: #0F203C;
+	background-color: #FFFFFF;
 }
 .experts .experts-box {
 	padding-top: 50px;
